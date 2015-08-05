@@ -3,6 +3,9 @@
 FIX1
 ------------
 This is my first GIT repository.
+---
+f3
+---
 I will use that repository to see power of dark GIT side.
 This is more horrible stuff than I thought. Will see what future brings to me.
 One more test with creating new branch.
@@ -20,3 +23,5 @@ master change no.2
 ----------------------
 change from f1
 change form f1.1
+--------------------
+test1: changw on github
