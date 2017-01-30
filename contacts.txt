@@ -2,8 +2,8 @@ a - Marek
 a - Piotrek
 a - Krzysiek
 a - Andrzej
-a
-a
+a - Krysia
+a 
 a
 a
 a
